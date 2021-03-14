@@ -5,4 +5,4 @@ slug: /contactme
 socialImage: /media/matt500x500.jpg
 draft: false
 ---
-Law graduate, now Product Manager and SEO, award-nominated amateur actor, part-time standup comedian, doodler, joke writer.
+Best try contacting me via [Twitter](https://twitter.com/MatthewOToole).
