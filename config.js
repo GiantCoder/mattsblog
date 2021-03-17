@@ -6,10 +6,11 @@ module.exports = {
   title: "Blog by Matt O'Toole",
   subtitle:
     "Random ramblings on various topics. Opinions are unfortunately my own.",
-  copyright: "© All rights reserved. I'm not sure why, though. 🤷🏼‍♂️",
-  disqusShortname: "",
+  copyright:
+    "© All rights reserved. I'm not sure why, though. 🤷🏼‍♂️  Who would want to copy this nonsense?",
+  disqusShortname: "mattotoole",
   postsPerPage: 6,
-  googleAnalyticsId: "",
+  googleAnalyticsId: "UA-91691468-2",
   useKatex: false,
   menu: [
     {
