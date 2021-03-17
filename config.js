@@ -8,7 +8,7 @@ module.exports = {
     "Random ramblings on various topics. Opinions are unfortunately my own.",
   copyright:
     "© All rights reserved. I'm not sure why, though. 🤷🏼‍♂️  Who would want to copy this nonsense?",
-  disqusShortname: "mattotoole",
+  disqusShortname: "mattotoole-co-uk",
   postsPerPage: 6,
   googleAnalyticsId: "UA-91691468-2",
   useKatex: false,
