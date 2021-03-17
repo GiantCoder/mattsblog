@@ -48,4 +48,24 @@ Hot keys:
 Modifiers:
 Subdivision surface - an essential modifier and one you'll use a lot! You access the modifiers by clicking on the spanner icon. Modifiers make your render times faster, make mesh easier to manipulate and are really f\*\*king powerful!
 
-### [Part Two, Level 2](https://www.youtube.com/watch?v=R2qjqqfkH6E) ✅
+### [Part Three, Level 1](https://www.youtube.com/watch?v=R2qjqqfkH6E) ✅
+
+Hot keys:
+
+- Numpad 1 - front-on view
+- Numpad 3 - side-on view (right)
+- Numpad 7 - top down view
+- ` key and holding down middle mouse button (or wheel) and dragging left or right or up or down
+- x-ray mode (alt-z)
+- p (with mesh selected) - separate objects by material or loose parts
+- ctrl+l - press this combo after selecting one vertex and it will select all connected vertices
+- n - show/hide the property menu
+
+The Outliner - helps you to organise your objects in your scene.
+
+"Mesh on top of mesh is worse than Hitler!", apparently. 😄
+
+Modifier:
+Solidify - he uses this for thickening up the icing
+
+Andrew also covers re-ordering modifiers so they're applied to your objects in a specific order.

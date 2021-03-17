@@ -10,20 +10,19 @@ import styles from "./Post.module.scss";
 import type { Node } from "../../types";
 import { DiscussionEmbed } from "disqus-react";
 import config from "../../../config";
-import { Disqus } from "gatsby-plugin-disqus";
 
 type Props = {
   post: Node,
 };
 
 const Post = ({ post }: Props) => {
+  const { html } = post;
+  const { tagSlugs, slug } = post.fields;
+  const { tags, title, date } = post.frontmatter;
   const disqusConfig = {
     shortname: config.disqusShortname,
     config: { identifier: slug, title },
   };
-  const { html } = post;
-  const { tagSlugs, slug } = post.fields;
-  const { tags, title, date } = post.frontmatter;
 
   return (
     <div className={styles["post"]}>
@@ -42,9 +41,8 @@ const Post = ({ post }: Props) => {
       </div>
 
       <div className={styles["post__comments"]}>
-        {/* <DiscussionEmbed shortname={config.disqusShortname} {...disqusConfig} /> */}
+        <DiscussionEmbed shortname={config.disqusShortname} {...disqusConfig} />
         <Comments postSlug={slug} postTitle={post.frontmatter.title} />
-        <Disqus config={disqusConfig} />
       </div>
     </div>
   );
