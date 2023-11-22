@@ -69,3 +69,87 @@ Modifier:
 Solidify - he uses this for thickening up the icing
 
 Andrew also covers re-ordering modifiers so they're applied to your objects in a specific order.
+
+### [Part Four, Level 1](https://www.youtube.com/watch?v=jmSgsaNSQ6s) ✅
+
+Hot keys:
+
+- a/alt-a - selecting/deselecting all the mesh
+  select and alt+left-click - selecting along a row of faces or edges
+- h/alt-h - hide/show
+- ctrl+i - invert selection
+  Snapping!
+  e - extrude!!
+  r - rotate!
+
+### [Part Five, Level 1](https://www.youtube.com/watch?v=6OTX3ZdYvEA) ✅
+
+The importance of creating backup objects
+
+- Sculpt Mode (apply your subsurf beforehand)
+
+Sculpting hot keys:
+f - to change the size of your brush
+symmetry - on/off
+ctrl - push the 'clay' in
+
+The inflate tool!
+Grab brush!
+Draw mode!
+
+### [Part Six, Level 1](https://www.youtube.com/watch?v=ZTxBrjN1ugA) ✅
+
+Hot keys:
+
+- shift-right-click - moves the 3D cursor
+- Numpad 0 - to switch to camera view
+- F12 - render!
+- shift-s - save image in Render view
+
+Parenting:
+Select the child object first, then the parent! Then press shift-p!
+
+Render Engines:
+Eevee - really fast
+Cycles - slower, but can use GPU, but more realistic
+
+Camera view:
+Lock camera to view!
+
+### [Part Seven, Level 1](https://www.youtube.com/watch?v=5lr8QnR5WWU) ✅
+
+####Materials!
+
+- base colour
+- roughness
+- subsurface scattering
+- subsurface radius (RGB)
+
+Compositing - add a de-noising node
+
+### [Part One, Level 2](https://www.youtube.com/watch?v=jNmnPXY9UQA) ✅
+
+Particles! - render a sprinkle as an object (under Hair)
+Weight Painting!
+
+### [Part Two, Level 2](https://www.youtube.com/watch?v=aZ5ungDgFNc) ✅
+
+Shading! - object nodes and color ramps to randomise the sprinkle colours
+
+Hot keys:
+
+- ctrl+r - edge loops!
+
+### [Part Three, Level 2](https://www.youtube.com/watch?v=nht2RoYBUfA) ✅
+
+Texture Painting!
+UV Unwrapping!
+Texture masks
+
+### [Part Four, Level 2](https://www.youtube.com/watch?v=Rh5gAQLtOls) ✅
+
+Procedural texturing - using Texture Coordinate + Noise Textures + Displacement nodes
+
+### [Part Five, Level 2](https://www.youtube.com/watch?v=rKPSB8tcXhQ) ✅
+
+Shading - mix nodes
